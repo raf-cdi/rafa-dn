@@ -16,4 +16,5 @@
 
 ## Find me
 
+<img align="left" height="30" src="./linkedin.svg">
 https://www.linkedin.com/in/rafael-dias-b3009b186/
