@@ -1,7 +1,7 @@
 
 # Rafael Dias
 
-<subhead>👨‍💻 Student Developer | 🎓 Analysis and System Development </subhead>
+<subhead>👨‍💻 Student Developer | 🎓 Systems for internet </subhead>
 
 ### Currently studying
 
